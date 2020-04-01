@@ -13,6 +13,7 @@ C++
 - [C++ Code Smells 2019 - Jason Turner](https://www.youtube.com/watch?v=nqfgOCU_Do4)
 - [C++ on Sea 2019: Kate Gregory "Oh The Humanity!"](https://www.youtube.com/watch?v=SzoquBerhUc)
 - [CppCon 2019: Kate Gregory “Naming is Hard: Let's Do Better”](https://www.youtube.com/watch?v=MBRoCdtZOYg)
+- CppCon 2019: Klaus Iglberger “Back to Basics: Move Semantics” ([Part 1](https://youtu.be/St0MNEU5b0o), [Part 2](https://www.youtube.com/watch?v=pIzaZbKUw2s))
 - [CppCon 2018: Jason Turner “Applied Best Practices”](https://www.youtube.com/watch?v=DHOlsEd0eDE)
 - [CppCon 2018: Kate Gregory “Simplicity: Not Just For Beginners”](https://www.youtube.com/watch?v=n0Ak6xtVXno)
 - [CppCon 2018: Kate Gregory “What Do We Mean When We Say Nothing At All?”](https://www.youtube.com/watch?v=kYVxGyido9g)
